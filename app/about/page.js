@@ -34,7 +34,7 @@ return (
           </div>
 
           
-          <div className="conatiner shadow-xl shadow-blue-300 p-4"> 
+          <div className="container shadow-xl shadow-blue-300 p-4"> 
             <h2 className="text-xl font-semibold text-blue-500">Our Vision</h2>
             <p className="text-gray-700 mt-2">
               To be a global leader in technology solutions, driving digital
@@ -43,7 +43,7 @@ return (
           </div>
 
           
-          <div className="conatiner shadow-xl shadow-blue-300 p-4">
+          <div className="container shadow-xl shadow-blue-300 p-4">
             <h2 className="text-xl font-semibold text-blue-500">
               Why Choose Us?
             </h2>
@@ -55,7 +55,7 @@ return (
            </div>
 
           
-          <div className="conatiner shadow-xl shadow-blue-300 p-4">
+          <div className="container shadow-xl shadow-blue-300 p-4">
             <h2 className="text-xl font-semibold text-blue-500">Our Values</h2>
             <p className="text-gray-700 mt-2">
               🚀 Innovation | 💡 Integrity | 📈 Growth | 🤝 Customer-Centric
